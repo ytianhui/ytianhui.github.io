@@ -2,7 +2,7 @@
 layout: post
 title: My work 1: Elevator locky 
 ---
-<img src="/images/elevator.png" class="fit image">
+<img src="/images/elevator.png" class="fit image" width="500"><br />
 A crowd-sourcing service for collecting elevator acceleration data. <br />
 This App has a very robust algorithm for recognizing elevator accelerations, you can get accurate elevator moving distance and speed by using this App. <br />
 This App now has more than 2000 downloads.<br />
