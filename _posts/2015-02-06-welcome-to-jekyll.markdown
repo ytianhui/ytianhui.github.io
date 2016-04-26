@@ -8,4 +8,4 @@ This APP can create new ideas by combining your input word and the word from dat
 You can get inspired by using the combination of the two words and gain new ideas.<br />
 If you introduce this APP to your team, you can get more and more new ideas than you can imagine!<br />
 
-Android APP download: <a href="https://play.google.com/store/apps/details?id=yth.idea.creator"></a>play.google.com/store/apps/details?id=yth.idea.creator<br />
+Android APP download: <a href="https://play.google.com/store/apps/details?id=yth.idea.creator">play.google.com/store/apps/details?id=yth.idea.creator</a><br />
