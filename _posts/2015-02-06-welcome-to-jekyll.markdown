@@ -1,14 +1,11 @@
 ---
 layout: post
-title: Suspendisse pellentesque
-date: 2015-02-06T14:37:44.000Z
+title: My works 2: Idea Creator
 categories: update
 ---
+<img src="images/ideacreator.jpg" class="fit image">
+This APP can create new ideas by combining your input word and the word from database.<br />
+You can get inspired by using the combination of the two words and gain new ideas.<br />
+If you introduce this APP to your team, you can get more and more new ideas than you can imagine!<br />
 
-<img src="/images/fulls/01.jpg" class="fit image"> Suspendisse pellentesque mollis turpis, vitae ullamcorper arcu sagittis in. Pellentesque viverra, diam vel ultrices lobortis, urna diam efficitur diam, non ultricies enim massa et neque. Mauris lacinia purus nibh, ac consequat mi molestie ac. Suspendisse at sapien ac magna posuere imperdiet eget id nisi.
-
-Nulla facilisi. Pellentesque id magna eu sapien consectetur pulvinar nec eget massa. Nunc ut volutpat felis. Vestibulum pharetra ligula vel mattis aliquam. Etiam tempor vitae nulla nec euismod. Vivamus eget justo libero. Curabitur dictum, turpis vel porttitor semper, elit turpis vehicula nibh, quis mollis metus tortor at magna.
-
-Maecenas posuere sodales magna id tincidunt. Nunc sapien ipsum, efficitur et mauris nec, tristique gravida leo. Donec at bibendum lectus, sit amet fringilla risus. Donec et justo mi. In risus risus, faucibus eget eros eget, tincidunt posuere purus. Maecenas porta lacus metus, nec varius enim egestas ac. In hac habitasse platea dictumst. Nullam a nisi nulla. Nam vel varius enim, sit amet fringilla massa. Proin vel aliquam felis, quis scelerisque arcu.
-
-Sed consequat mi id malesuada efficitur. Vestibulum efficitur tortor ut dictum porta. Morbi dapibus viverra risus, et laoreet lorem commodo et. Donec hendrerit posuere magna a efficitur. Nullam euismod eget nulla eget iaculis. Donec porttitor faucibus porta. Morbi et risus dolor. Mauris venenatis sem id neque hendrerit ultrices.
+Android APP download: <a href="https://play.google.com/store/apps/details?id=yth.idea.creator"></a>play.google.com/store/apps/details?id=yth.idea.creator<br />
