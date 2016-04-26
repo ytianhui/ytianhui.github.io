@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My works 2: Idea Creator
+title: "My works 2: Idea Creator"
 categories: update
 ---
 <img src="/images/ideacreator.jpg" class="fit image" width="500"><br />
