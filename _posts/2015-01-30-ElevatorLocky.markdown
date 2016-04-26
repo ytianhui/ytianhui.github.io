@@ -1,6 +1,8 @@
 ---
 layout: post
 title: My work 1: Elevator locky 
+date: 2015-02-06T14:37:44.000Z
+categories: update
 ---
 <img src="/images/elevator.png" class="fit image" width="500"><br />
 A crowd-sourcing service for collecting elevator acceleration data. <br />
