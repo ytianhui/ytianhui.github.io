@@ -4,4 +4,4 @@ title: "My works 3: Ah Toeic (Coming Soon...)"
 date: 2016-02-06T14:37:44.000Z
 categories: update
 ---
-<img src="/images/ahtoeic.png" class="fit image" width="500"><br />
+<img src="/images/ahtoeic.jpg" class="fit image" width="500"><br />
