@@ -31,6 +31,7 @@ A content delivery network, or CDN, offers an efficient, cost-effective way of r
 
 ## SafetyNet
 SafetyNet provides services for analyzing the configuration of a particular device to **verify that it passes the Android compatibility test**.
+https://www.cigital.com/blog/using-safetynet-api/
 
 ## gsutil
 gsutil is a Python application that lets you access Cloud Storage from the command line. 
