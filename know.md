@@ -96,5 +96,6 @@ payload英语单词意思是有效载荷，在http中，应该是post请求时�
 ## The Compatibility Test Suite (CTS) 
 1） Android Compatibility Test Suite（CTS） 
 Compatibility Test Suite（CTS）兼容性测试套件, 乃在Google Android instrumentation介面进行framework API测试，以确定Android装置的软体与硬体可以符合Google Play 相容性规范，确保使用者在Google Play裡所下载之程式可在装置上正确执行。由於Google并没有在源代码中提供Google Play的应用，厂商的装置必须通过了CTS测试，才可以向Google申请使用Google Play。CTS测试是一项免费的服务, 厂商可以自行到官网下载并自行测试. 最后测试后结果若能符合规范, 传给Google, 就可取得使用Google Play(Android Market)的授权. 换言之, 未经CTS认证的装置, 将无法使用Google Play应用程式.
+
 2） Google Mobile Service（GMS）
 Google Mobile services - GMS 主要是Google API的验证, 认证后可在装置上印有Google商标, 并使用Google云端服务授权包括了Gmail、Google 地图、Youtube、Android Market、日历、Google Talk ..等程式. 由於要内建这些程式并无法事先自行模拟测试, 要交由Google进行授权认证及向Google付权利费, 所以非国际大厂基於时效与成本考量, 通常不会有GMS认证。再者, 若不是大厂, Google也不会花时间帮小厂做GMS认证. 
