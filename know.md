@@ -1,4 +1,4 @@
-[toc]
+[TOC]
 
 ## Ad unit ID
 The unique identifier for an ad unit.
