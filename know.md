@@ -29,3 +29,63 @@ A content delivery network, or CDN, offers an efficient, cost-effective way of r
 
 ## SafetyNet
 SafetyNet provides services for analyzing the configuration of a particular device to **verify that it passes the Android compatibility test**.
+
+## gsutil
+gsutil is a Python application that lets you access Cloud Storage from the command line. 
+You can use gsutil to do a wide range of bucket and object management tasks
+
+## alt in html
+The alt attribute provides alternative information for an image if a user for some reason cannot view it (because of slow connection, an error in the src attribute, or if the user uses a screen reader).
+
+## GCM onTokenRefresh ()
+Called when the system determines that the tokens need to be refreshed. The application should call getToken() and send the tokens to all application servers.
+This will not be called very frequently, it is needed for key rotation and to handle special cases.
+The system will throttle the refresh event across all devices to avoid overloading application servers with token updates.
+
+## FCM onTokenRefresh ()
+Firebase Instance ID provides a unique identifier for each app instance and a mechanism to authenticate and authorize actions (example: sending FCM messages).
+Instance ID is stable except when:
+App deletes Instance ID
+App is restored on a new device
+User uninstalls/reinstall the app
+User clears app data
+
+## Canonical IDs
+On the server side, as long as the application is behaving well, everything should work normally. However, if a bug in the application triggers multiple registrations for the same device, it can be hard to reconcile state and you might end up with duplicate messages.
+
+GCM provides a facility called "canonical registration IDs" to easily recover from these situations. A canonical registration ID is defined to be the ID of the last registration requested by your application. This is the ID that the server should use when sending messages to the device.
+
+If later on you try to send a message using a different registration ID, GCM will process the request as usual, but it will include the canonical registration ID in the registration_id field of the response. Make sure to replace the registration ID stored in your server with this canonical ID, as eventually the ID you're using will stop working.
+
+## CRUD
+In computing, CRUD is an acronym for create, retrieve, update, and delete. It is used to refer to the basic functions of a database or persistence layer in a software system.
+
+## JavaScript是一行一行执行的，Java是按照入口之行的
+
+## FCM background
+display-messages: These messages trigger the onMessageReceived() callback only when your app is in foreground
+data-messages: Theses messages trigger the onMessageReceived() callback even if your app is in background
+
+## FCM message types
+Notification messages, sometimes thought of as "display messages."
+Data messages, which are handled by the client app.
+
+## Big query 
+可以链接Firebase Analytics，然后可以导入全部数据到Bigquery，
+
+## curl
+time curl 测量的是全部时间，所以长达1秒的可能，实际应用中，是只发送，后确认，所以可以很快。
+
+## FCM Device to Device
+According to the docs you must implement a server for handling push notifications in device to device communication.
+
+## Rest API
+as per the charesteristics of REST, it is independent of the client and is stateless, so the results as per latency is concerned can vary
+http://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm
+
+##【git】.gitignore用法
+在使用 Git 进行版本控制的时候，有些文件是无需纳入 Git 管理的，通常都是些自动生成的文件，
+像日志或者编译过程中创建的文件。我们可以创建一个名为 .gitignore 的文件，列出要忽略的文件来解决这个问题。
+
+## http中的payload怎么理解？
+payload英语单词意思是有效载荷，在http中，应该是post请求时，所携带的有效数据的意思，比如你post请求上传文件，用谷歌浏览器抓包可以看到payload相关信息，它分成了多组数据描述信息，用类似于“------WebKitFormBoundaryaL7XJASi3bOcnKjn”这样的字符串分割，Content-Disposition: form-data; name="localUrl"这个是描述上传的文件的本地路径，Content-Disposition: form-data; name="imgFile"; filename="1.png" Content-Type: image/png这个是描述上传的图片的mime类型
