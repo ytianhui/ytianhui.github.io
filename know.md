@@ -99,3 +99,11 @@ Compatibility Test Suite（CTS）兼容性测试套件, 乃在Google Android ins
 
 2） Google Mobile Service（GMS）
 Google Mobile services - GMS 主要是Google API的验证, 认证后可在装置上印有Google商标, 并使用Google云端服务授权包括了Gmail、Google 地图、Youtube、Android Market、日历、Google Talk ..等程式. 由於要内建这些程式并无法事先自行模拟测试, 要交由Google进行授权认证及向Google付权利费, 所以非国际大厂基於时效与成本考量, 通常不会有GMS认证。再者, 若不是大厂, Google也不会花时间帮小厂做GMS认证. 
+
+## install Node
+wget https://nodejs.org/dist/v0.12.7/node-v0.12.7.tar.gz
+tar xzf node-v0.12.7.tar.gz
+cd node-v0.12.7
+./configure
+make
+make install
