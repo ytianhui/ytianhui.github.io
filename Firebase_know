@@ -1,1 +1,2 @@
-
+## Firebase profile
+firebase database:profile --project fbXXXXXX --output aaa.txt --duration 20
