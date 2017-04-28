@@ -75,8 +75,6 @@
 
             </ul>
         </footer>
-    <button type="button" onclick=myFunction()>Click Me!</button>
-
 	</body>
 
 <script src="https://www.gstatic.com/firebasejs/3.6.10/firebase.js">
@@ -116,7 +114,6 @@
 
 <script>
     console.log("before myFunc")
-    function myFunction() {
         console.log("in myFunc")
         var database = firebase.database();
         var ref = database.ref('dinosaurs');
@@ -125,7 +122,6 @@
                 console.log("childData " + childSnapshot.val().height);
             });
         });
-    }
 </script>
 
 </html>
